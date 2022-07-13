@@ -1,5 +1,9 @@
 [
   {
+    "package": "ptw",
+    "oncran": true
+  },
+  {
     "package": "alsace"
   }
 ]
