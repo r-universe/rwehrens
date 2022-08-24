@@ -9,8 +9,3 @@
 	shallow = true
 	subdir = ptw
 	registered = true
-[submodule "alsace"]
-	path = alsace
-	url = https://github.com/rwehrens/alsace
-	shallow = true
-	registered = true
