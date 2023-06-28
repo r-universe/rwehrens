@@ -1,21 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BioMark"]
 	path = BioMark
 	url = https://github.com/cran/BioMark
-	shallow = true
-	registered = true
 [submodule "kohonen"]
 	path = kohonen
 	url = https://github.com/cran/kohonen
-	shallow = true
-	registered = true
 [submodule "ptw"]
 	path = ptw
 	url = https://github.com/rwehrens/ptw
-	shallow = true
 	subdir = ptw
-	registered = true
