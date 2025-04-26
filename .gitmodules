@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BioMark"]
-	path = BioMark
-	url = https://github.com/cran/BioMark
 [submodule "kohonen"]
 	path = kohonen
 	url = https://github.com/cran/kohonen
